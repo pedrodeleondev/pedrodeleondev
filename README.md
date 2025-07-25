@@ -55,6 +55,7 @@
     <img src="https://img.shields.io/badge/GitHub-pedrodeleondev-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/pedro-de-león-120356272/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20De%20León-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
