@@ -17,9 +17,11 @@
 </p>
 
 <!-- Framework Frontend -->
-<h3 align="center">🎨 Framework Frontend</h3>
+<h3 align="center">🎨 Frameworks y Estilos Frontend</h3>
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Angular-DD0031.svg?logo=angular&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Sass-CC6699.svg?logo=sass&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white"/>
 </p>
 
 <!-- Frameworks Backend -->
