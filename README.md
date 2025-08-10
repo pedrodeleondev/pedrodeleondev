@@ -8,43 +8,43 @@
 <!-- Lenguajes base -->
 <h3 align="center">💻 Lenguajes de programación</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Java-007396?logo=java&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-239120?logo=c-sharp&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Bash-4EAA25?logo=gnubash&logoColor=white"/>
 </p>
 
 <!-- Framework Frontend -->
 <h3 align="center">🎨 Framework Frontend</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Angular-DD0031?logo=angular&logoColor=white"/>
 </p>
 
 <!-- Frameworks Backend -->
 <h3 align="center">🧩 Frameworks Backend</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/.NET-512BD4?logo=dotnet&logoColor=white"/>
 </p>
 
 <!-- DevOps Tools -->
 <h3 align="center">🛠️ Herramientas DevOps</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Amazon%20AWS-FF9900?logo=amazonaws&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?logo=github&logoColor=white"/>
 </p>
 
 <!-- Sistemas Operativos -->
 <h3 align="center">🖥️ Sistemas Operativos</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/macOS-000000?logo=apple&logoColor=white"/>
 </p>
 
 <!-- Sobre mí -->
@@ -61,9 +61,9 @@
 <h2 align="center">📬 Conéctate conmigo</h2>
 <p align="center">
   <a href="https://github.com/pedrodeleondev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-pedrodeleondev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-pedrodeleondev-181717?logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/pedro-de-león-120356272/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pedro%20De%20León-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Pedro%20De%20León-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
 </p>
