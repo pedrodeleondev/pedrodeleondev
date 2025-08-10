@@ -15,16 +15,16 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-<!-- Frameworks Backend -->
-<h3 align="center">🧩 Frameworks Backend</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
-
 <!-- Framework Frontend -->
 <h3 align="center">🎨 Framework Frontend</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+<!-- Frameworks Backend -->
+<h3 align="center">🧩 Frameworks Backend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
 <!-- DevOps Tools -->
