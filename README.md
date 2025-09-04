@@ -41,7 +41,6 @@
 <h3 align="center">🛠️ DevOps Tools</h3>
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0078D4.svg?logo=microsoftazure&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?logo=docker&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?logo=git&logoColor=white"/>
