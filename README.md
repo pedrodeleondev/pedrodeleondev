@@ -9,7 +9,6 @@
 <h3 align="center">💻 Programming Languages</h3>
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
   <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"/>
@@ -19,7 +18,7 @@
 <!-- Frontend Frameworks -->
 <h3 align="center">🎨 Frontend Frameworks & Styling</h3>
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Angular-DD0031.svg?logo=angular&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/React-61DAFB.svg?logo=react&logoColor=black"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Sass-CC6699.svg?logo=sass&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white"/>
 </p>
@@ -27,7 +26,8 @@
 <!-- Backend Frameworks -->
 <h3 align="center">🧩 Backend Frameworks</h3>
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Express.js-000000.svg?logo=express&logoColor=white"/>
 </p>
 
 <!-- Databases -->
@@ -40,7 +40,7 @@
 <!-- DevOps Tools -->
 <h3 align="center">🛠️ DevOps Tools</h3>
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=amazonaws&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?logo=docker&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?logo=git&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white"/>
@@ -59,7 +59,8 @@
 <p align="center">
   🔧 Software Development Engineer specializing in <strong>DevOps and Backend</strong>.<br>
   ⚙️ Focused on process automation, CI/CD, containerization, and cloud deployment.<br>
-  🛠️ Experience building robust APIs, microservices, and scalable solutions.<br>
+  🛠️ Experience building robust APIs, microservices, and scalable solutions with <strong>Node.js</strong> and <strong>Express</strong>.<br>
+  🎨 Skilled in modern frontend development using <strong>React</strong> and <strong>Tailwind CSS</strong>.<br>
   📚 Passionate about learning, sharing knowledge, and collaborating in teams.<br>
   🌍 Fluent in <strong>Spanish</strong> (native) and <strong>English</strong> (advanced).
 </p>
