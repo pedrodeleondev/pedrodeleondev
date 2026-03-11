@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hello! 👋 I'm Pedro De León</h1>
-<p align="center"><strong>Software Development Engineer</strong> specializing in <strong>DevOps and Backend</strong></p>
+<p align="center"><strong>Data Analyst</strong> specializing in <strong>Data Analysis and Automation</strong></p>
 
 <!-- Technologies -->
 <h2 align="center">🚀 Technologies I Master</h2>
@@ -11,23 +11,14 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Bash-4EAA25.svg?logo=gnubash&logoColor=white"/>
 </p>
 
-<!-- Frontend Frameworks -->
-<h3 align="center">🎨 Frontend Frameworks & Styling</h3>
+<!-- Data Analysis Tools -->
+<h3 align="center">📊 Data Analysis Tools</h3>
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/React-61DAFB.svg?logo=react&logoColor=black"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Sass-CC6699.svg?logo=sass&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white"/>
-</p>
-
-<!-- Backend Frameworks -->
-<h3 align="center">🧩 Backend Frameworks</h3>
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Express.js-000000.svg?logo=express&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811.svg?logo=powerbi&logoColor=black"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Excel-217346.svg?logo=microsoft-excel&logoColor=white"/>
 </p>
 
 <!-- Databases -->
@@ -38,7 +29,7 @@
 </p>
 
 <!-- DevOps Tools -->
-<h3 align="center">🛠️ DevOps Tools</h3>
+<h3 align="center">🛠️ Cloud & DevOps</h3>
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=amazonaws&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?logo=docker&logoColor=white"/>
@@ -57,12 +48,13 @@
 <!-- About Me -->
 <h2 align="center">💡 About Me</h2>
 <p align="center">
-  🔧 Software Development Engineer specializing in <strong>DevOps and Backend</strong>.<br>
-  ⚙️ Focused on process automation, CI/CD, containerization, and cloud deployment.<br>
-  🛠️ Experience building robust APIs, microservices, and scalable solutions with <strong>Node.js</strong> and <strong>Express</strong>.<br>
-  🎨 Skilled in modern frontend development using <strong>React</strong> and <strong>Tailwind CSS</strong>.<br>
-  📚 Passionate about learning, sharing knowledge, and collaborating in teams.<br>
-  🌍 Fluent in <strong>Spanish</strong> (native) and <strong>English</strong> (advanced).
+  📊 Data Analyst focused on extracting insights and building data-driven solutions.<br>
+  🐍 Experienced using <strong>Python</strong> for data analysis, automation and web scraping with tools like <strong>Scrapy</strong>.<br>
+  📈 Skilled in building dashboards and visual analytics using <strong>Power BI</strong> and <strong>Excel</strong>.<br>
+  ☁️ Experience deploying and managing servers and infrastructure in <strong>AWS</strong>.<br>
+  🤖 Developed projects integrating <strong>AI models</strong> to analyze competitors and identify the best prices in the market through automated data collection.<br>
+  🔍 Passionate about transforming raw data into meaningful insights for decision making.<br>
+  🌍 Fluent in <strong>Spanish</strong> (native) and <strong>English</strong> (B1).
 </p>
 
 <!-- Contact -->
