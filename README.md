@@ -68,7 +68,7 @@
   🌐 Knowledge of <strong>HTML, CSS, Sass, Less</strong> and JavaScript for web development.<br>
   🐍 Experience using <strong>Python</strong> for automation and scripting.<br>
   🚀 Passionate about cloud technologies, software development and automation.<br>
-  🌍 Spanish (Native) & English (B1)
+  🌍 Spanish (Native) & English (B1+)
 </p>
 
 <!-- Contact -->
