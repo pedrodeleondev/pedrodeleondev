@@ -142,7 +142,7 @@
   🔄 Experiencia práctica en <strong>extracción, transformación, modelado de datos y reportes automatizados</strong>.<br>
   🚀 Apasionado por la analítica, la automatización y la conversión de datos sin procesar en decisiones estratégicas de negocio.<br>
   🎓 Estudiante de Ingeniería en Desarrollo de Software en Tecmilenio (2023 – 2027) | Técnico en Programación por CETIS 101 (2018 – 2021).<br>
-  🌍 Español (Nativo) e Inglés (B1)
+  🌍 Español (Nativo) e Inglés (B1+)
 </p>
 
 <!-- Contacto -->
