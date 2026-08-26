@@ -50,6 +50,84 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624.svg?logo=linux&logoColor=black"/>
 </p>
 
+<!-- Featured Projects -->
+
+<h2 align="center">📁 Featured Projects</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕷️ <a href="https://github.com/pedrodeleondev/extractorPrecios-scrapy">extractorPrecios-scrapy</a></h3>
+      <p>Pipeline de extracción automatizada y web scraping con <strong>Scrapy</strong> para monitoreo, recolección y estructuración de datos de precios competitivos.</p>
+      <p>
+        <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Scrapy-4B5563.svg?logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Data%20Extraction-217346.svg?logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/pedrodeleondev/proyecto-final-fddo">Proyecto Final FDDO</a></h3>
+      <p>Proyecto integral enfocado en modelado, análisis exploratorio de datos (EDA) y generación de reportes estratégicos para toma de decisiones.</p>
+      <p>
+        <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Data%20Analysis-336791.svg?logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/pedrodeleondev/avance-proyecto-fddo">Avance Proyecto FDDO</a></h3>
+      <p>Fase de exploración preliminar, limpieza y transformación de datos (ETL) correspondiente al desarrollo del caso analítico FDDO.</p>
+      <p>
+        <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Pandas-150458.svg?logo=pandas&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/ETL-4EAA25.svg?logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 <a href="https://github.com/pedrodeleondev/finmine_project">FinMine Project</a></h3>
+      <p>Herramienta analítica orientada al procesamiento, monitoreo y extracción de información sobre datos financieros y métricas clave.</p>
+      <p>
+        <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/SQL-336791.svg?logo=database&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Analytics-F2C811.svg?logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 <a href="https://github.com/pedrodeleondev/rhymesmusic">RhymesMusic</a></h3>
+      <p>Aplicación de software orientada a la gestión, streaming y exploración de contenido musical y datos de audio.</p>
+      <p>
+        <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Software%20Dev-181717.svg?logo=github&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐾 <a href="https://github.com/pedrodeleondev/naricitas">Naricitas</a></h3>
+      <p>Plataforma de software enfocada en el registro, seguimiento y gestión comunitaria / adopción de mascotas.</p>
+      <p>
+        <img src="https://custom-icon-badges.demolab.com/badge/Full%20Stack-336791.svg?logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Database-527FFF.svg?logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ <a href="https://github.com/pedrodeleondev/KindBite">KindBite</a></h3>
+      <p>Sistema orientado a la optimización, distribución o gestión responsable de alimentos y recursos.</p>
+      <p>
+        <img src="https://custom-icon-badges.demolab.com/badge/Web%20Development-0A66C2.svg?logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/API-FF9900.svg?logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Espacio reservado para futuros proyectos -->
+    </td>
+  </tr>
+</table>
+
 <!-- About Me -->
 
 <h2 align="center">💡 About Me</h2>
