@@ -23,7 +23,6 @@
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/SQL-336791.svg?logo=database&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Pandas-150458.svg?logo=pandas&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Web%20Scraping-4B5563.svg?logoColor=white"/>
@@ -46,7 +45,6 @@
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?logo=git&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Android%20Studio-3DDC84.svg?logo=androidstudio&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Bash-4EAA25.svg?logo=gnubash&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624.svg?logo=linux&logoColor=black"/>
