@@ -23,21 +23,17 @@
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/SQL-336791.svg?logo=database&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Pandas-150458.svg?logo=pandas&logoColor=white"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?logo=numpy&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Web%20Scraping-4B5563.svg?logoColor=white"/>
 </p>
 
-<!-- Plataforma Cloud (AWS) -->
+<!-- Plataforma Cloud -->
 
-<h3 align="center">☁️ Plataforma Cloud (AWS)</h3>
+<h3 align="center">☁️ Plataforma Cloud</h3>
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-FF9900.svg?logo=amazonaws&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Amazon%20S3-569A31.svg?logo=amazons3&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Amazon%20Athena-8C4FFF.svg?logo=amazonathena&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS%20Glue%20Catalog-8C4FFF.svg?logo=awsglue&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Amazon%20RDS-527FFF.svg?logo=amazonrds&logoColor=white"/>
 </p>
 
 <!-- Herramientas & Entorno -->
@@ -46,7 +42,6 @@
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Git-F05032.svg?logo=git&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Android%20Studio-3DDC84.svg?logo=androidstudio&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Bash-4EAA25.svg?logo=gnubash&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624.svg?logo=linux&logoColor=black"/>
@@ -108,7 +103,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/pedrodeleondev/rhymesmusic">RhymesMusic</a></h3>
+      <h3>🎵 <a href="https://github.com/pedrodeleondev/rhymesmusic">RhymesMusic</a></h3>
       <p>Aplicación móvil desarrollada en <strong>Kotlin</strong> para la reproducción, gestión y catalogación interactiva de bibliotecas de audio.</p>
       <p>
         <img src="https://custom-icon-badges.demolab.com/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"/>
@@ -145,7 +140,7 @@
 <p align="center">
   📊 <strong>Analista de Datos</strong> enfocado en el diseño de flujos de procesamiento de datos escalables y soluciones analíticas en la nube.<br>
   🐍 Experiencia aplicando <strong>Python (Pandas, NumPy) y SQL</strong> para análisis exploratorio de datos (EDA), consultas complejas y web scraping automatizado.<br>
-  ☁️ Manejo de servicios en la nube de <strong>AWS (S3, Athena, Glue Catalog, RDS)</strong> para analítica y consulta de datos en la nube.<br>
+  ☁️ Manejo de servicios en la nube de <strong>AWS</strong> para analítica y consulta de datos.<br>
   📈 Creación de tableros interactivos y reportes ejecutivos utilizando <strong>Power BI (DAX, Power Query) y Excel Avanzado</strong>.<br>
   🔄 Experiencia práctica en <strong>extracción, transformación, modelado de datos y reportes automatizados</strong>.<br>
   🚀 Apasionado por la analítica, la automatización y la conversión de datos sin procesar en decisiones estratégicas de negocio.<br>
